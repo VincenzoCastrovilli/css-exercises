@@ -68,3 +68,9 @@ ul {
   padding: 0;
   gap: 16px
 }
+
+.content {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+}
